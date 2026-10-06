@@ -2,7 +2,7 @@
 
 ## Video walkthrough
 
-**Video URL:** `PASTE_YOUR_PUBLIC_VIDEO_LINK_HERE`
+**Video URL:** https://youtu.be/shmQPX5H9r8
 
 ## Run it
 
